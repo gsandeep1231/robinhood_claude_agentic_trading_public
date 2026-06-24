@@ -84,7 +84,7 @@ persistent journal — all configured in `config/investment-policy.md`.
 
 ```bash
 # 1. Get the code
-git clone <your-fork-url> agentic-trading
+git clone https://github.com/gsandeep1231/robinhood_claude_agentic_trading_public.git agentic-trading
 cd agentic-trading
 
 # 2. Create your private config from the template
